@@ -1,0 +1,12 @@
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\bin\Debug\AttributeLibrary.dll
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\bin\Debug\AttributeLibrary.pdb
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.dll
+C:\Users\Lenovo\source\repos\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.pdb
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\bin\Debug\AttributeLibrary.dll
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\bin\Debug\AttributeLibrary.pdb
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.dll
+C:\Users\Lenovo\source\repos\AttributeSolution\AttributeLibrary\AttributeLibrary\obj\Debug\AttributeLibrary.pdb

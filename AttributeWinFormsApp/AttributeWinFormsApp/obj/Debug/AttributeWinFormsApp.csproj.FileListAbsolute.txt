@@ -1,0 +1,13 @@
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\bin\Debug\AttributeWinFormsApp.exe.config
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\bin\Debug\AttributeWinFormsApp.exe
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\bin\Debug\AttributeWinFormsApp.pdb
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\bin\Debug\AttributeLibrary.dll
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\bin\Debug\AttributeLibrary.pdb
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.Form1.resources
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.Properties.Resources.resources
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.csproj.GenerateResource.cache
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.csproj.CopyComplete
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.exe
+C:\Users\Lenovo\source\repos\AttributeWinFormsApp\AttributeWinFormsApp\obj\Debug\AttributeWinFormsApp.pdb
